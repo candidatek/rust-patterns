@@ -45,6 +45,4 @@ fn main() {
     let square = Square { side: 5.0 };
     print_area(&circle);
     print_area(&square);
-
-    println!("Hello, world!");
 }
